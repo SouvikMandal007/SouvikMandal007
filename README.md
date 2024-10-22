@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js and JavaScript.<br>👯 I’m looking to collaborate on Web Dev projects.<br>🌱 I’m currently learning Machine Learning , NLP and MLOps.
+🔭 I’m currently working on Raksna- Your own ride companion.<br>👯 I’m looking to collaborate on Web Dev & M.L projects.<br>🌱 I’m currently learning Machine Learning , NLP and MLOps.
 
 
 ## 🌐 Socials:
